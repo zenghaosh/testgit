@@ -13,6 +13,7 @@ Bet
 
 注意：上一条规则生效后会忽略以后所有规则。
 
+a new line
 
 
 see something unusual.
