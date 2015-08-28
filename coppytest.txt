@@ -23,6 +23,8 @@ Profile
 Dashboard
 信息综合
 
+stimm something
+
 Admin
 后台
 可操控所有数据
